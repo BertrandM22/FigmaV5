@@ -1,4 +1,5 @@
             ✨ FIGMA Exercise : Responsive Design with Burger Menu ✨
+![preview](assets\preview.png)
 
 ## ✏️ Description
 Ce projet a consisté à concevoir un design responsive avec un menu burger qui se déclenche lorsque la page descend en-dessous d'un certain format d'écran. L'objectif principal était de créer une interface claire et fonctionnelle tout en divisant la page en plusieurs sections et containers, tout en gardant un code structuré et lisible. Ce projet met en avant l'utilisation de techniques comme les media queries, Flexbox et Grid pour garantir que le design reste fluide et réactif à différents types de périphériques.
@@ -25,12 +26,9 @@ Veiller à ce que le code soit clair et bien commenté pour qu'il soit facile à
 Utilisation des meilleures pratiques pour garantir que le site fonctionne bien sur des écrans de différentes tailles tout en restant cohérent visuellement.
 
 ## 🛠️ Installation & Utilisation
-Cloner le dépôt :
+1. Cloner le dépôt :
 
-bash
-Copier
-Modifier
-git clone https://github.com/BertrandM22/FigmaAll/Figma04.git
-cd figmaProjectV4
-Ouvrir le projet :
+git clone https://github.com/BertrandM22/FigmaV5.git
+
+2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
