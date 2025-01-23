@@ -1,4 +1,4 @@
-            ✨ FIGMA Exercise : Responsive Design with Burger Menu ✨
+                                    ✨ FIGMA Exercise : Responsive Design with Burger Menu ✨
 
 
 ![preview](assets/preview.png)
@@ -31,8 +31,8 @@ Utilisation des meilleures pratiques pour garantir que le site fonctionne bien s
 
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
-
+```
 git clone https://github.com/BertrandM22/FigmaV5.git
-
+```
 2. Ouvrir le projet :
 Ouvre le fichier index.html dans ton navigateur préféré pour voir le projet.
