@@ -1,4 +1,4 @@
-                                    ✨ FIGMA Exercise : Responsive Design with Burger Menu ✨
+                                 ✨ FIGMA Exercise : Responsive Design with Burger Menu ✨
 
 
 ![preview](assets/preview.png)
@@ -28,6 +28,9 @@ Veiller à ce que le code soit clair et bien commenté pour qu'il soit facile à
 
 🛠️ Fluidité et adaptabilité :
 Utilisation des meilleures pratiques pour garantir que le site fonctionne bien sur des écrans de différentes tailles tout en restant cohérent visuellement.
+## Lien: 
+
+[ICI](https://figma-v5.vercel.app/#)
 
 ## 🛠️ Installation & Utilisation
 1. Cloner le dépôt :
